@@ -4,7 +4,7 @@
 
 Projeto criado durante a Next Level Week, da Rocketseat.
 
-🔗 [Acesse a página aqui!](https://mathesukkj.github.io/NLW-eSports/)
+🔗 [Acesse a página aqui!](https://mathesukkj.github.io/nlw-esports-explorer/)
 
 ## 🚀 Tecnologias usadas
 
